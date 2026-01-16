@@ -1,0 +1,8 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriangleNormal\TriangleNormal\bin\Debug\TriangleNormal.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriangleNormal\TriangleNormal\bin\Debug\TriangleNormal.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriangleNormal\TriangleNormal\bin\Debug\TriangleNormal.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriangleNormal\TriangleNormal\obj\Debug\TriangleNormal.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriangleNormal\TriangleNormal\obj\Debug\TriangleNormal.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriangleNormal\TriangleNormal\obj\Debug\TriangleNormal.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriangleNormal\TriangleNormal\obj\Debug\TriangleNormal.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriangleNormal\TriangleNormal\obj\Debug\TriangleNormal.exe.config
