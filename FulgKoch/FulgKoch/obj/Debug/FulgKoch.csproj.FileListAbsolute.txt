@@ -1,0 +1,11 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\obj\Debug\FulgKoch.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\obj\Debug\FulgKoch.Form1.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\obj\Debug\FulgKoch.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\obj\Debug\FulgKoch.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\obj\Debug\FulgKoch.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\bin\Debug\FulgKoch.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\bin\Debug\FulgKoch.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\bin\Debug\FulgKoch.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\obj\Debug\FulgKoch.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\obj\Debug\FulgKoch.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FulgKoch\FulgKoch\obj\Debug\FulgKoch.exe.config
