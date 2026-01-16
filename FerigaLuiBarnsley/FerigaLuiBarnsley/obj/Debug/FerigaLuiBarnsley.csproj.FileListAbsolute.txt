@@ -1,0 +1,11 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\bin\Debug\FerigaLuiBarnsley.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\bin\Debug\FerigaLuiBarnsley.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\bin\Debug\FerigaLuiBarnsley.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\obj\Debug\FerigaLuiBarnsley.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\obj\Debug\FerigaLuiBarnsley.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\obj\Debug\FerigaLuiBarnsley.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\obj\Debug\FerigaLuiBarnsley.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\obj\Debug\FerigaLuiBarnsley.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\obj\Debug\FerigaLuiBarnsley.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\obj\Debug\FerigaLuiBarnsley.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\FerigaLuiBarnsley\FerigaLuiBarnsley\obj\Debug\FerigaLuiBarnsley.Form1.resources
