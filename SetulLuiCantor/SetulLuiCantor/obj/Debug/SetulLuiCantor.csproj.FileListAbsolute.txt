@@ -1,0 +1,9 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\bin\Debug\SetulLuiCantor.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\bin\Debug\SetulLuiCantor.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\bin\Debug\SetulLuiCantor.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulLuiCantor\SetulLuiCantor\obj\Debug\SetulLuiCantor.pdb
