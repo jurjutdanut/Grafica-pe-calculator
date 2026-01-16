@@ -1,0 +1,11 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\bin\Debug\ScanlineSimplificat.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\bin\Debug\ScanlineSimplificat.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\bin\Debug\ScanlineSimplificat.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\obj\Debug\ScanlineSimplificat.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\obj\Debug\ScanlineSimplificat.Form1.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\obj\Debug\ScanlineSimplificat.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\obj\Debug\ScanlineSimplificat.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\obj\Debug\ScanlineSimplificat.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\obj\Debug\ScanlineSimplificat.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\obj\Debug\ScanlineSimplificat.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\ScanlineSimplificat\ScanlineSimplificat\obj\Debug\ScanlineSimplificat.exe.config
