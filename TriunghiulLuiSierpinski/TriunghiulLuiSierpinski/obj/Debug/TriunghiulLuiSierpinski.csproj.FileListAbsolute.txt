@@ -1,0 +1,9 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriunghiulLuiSierpinski\TriunghiulLuiSierpinski\bin\Debug\TriunghiulLuiSierpinski.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriunghiulLuiSierpinski\TriunghiulLuiSierpinski\bin\Debug\TriunghiulLuiSierpinski.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriunghiulLuiSierpinski\TriunghiulLuiSierpinski\bin\Debug\TriunghiulLuiSierpinski.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriunghiulLuiSierpinski\TriunghiulLuiSierpinski\obj\Debug\TriunghiulLuiSierpinski.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriunghiulLuiSierpinski\TriunghiulLuiSierpinski\obj\Debug\TriunghiulLuiSierpinski.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriunghiulLuiSierpinski\TriunghiulLuiSierpinski\obj\Debug\TriunghiulLuiSierpinski.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriunghiulLuiSierpinski\TriunghiulLuiSierpinski\obj\Debug\TriunghiulLuiSierpinski.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriunghiulLuiSierpinski\TriunghiulLuiSierpinski\obj\Debug\TriunghiulLuiSierpinski.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\TriunghiulLuiSierpinski\TriunghiulLuiSierpinski\obj\Debug\TriunghiulLuiSierpinski.pdb
