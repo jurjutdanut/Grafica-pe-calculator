@@ -1,0 +1,10 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lambert\Lambert\bin\Debug\Lambert.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lambert\Lambert\bin\Debug\Lambert.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lambert\Lambert\bin\Debug\Lambert.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lambert\Lambert\obj\Debug\Lambert.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lambert\Lambert\obj\Debug\Lambert.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lambert\Lambert\obj\Debug\Lambert.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lambert\Lambert\obj\Debug\Lambert.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lambert\Lambert\obj\Debug\Lambert.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lambert\Lambert\obj\Debug\Lambert.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\Lambert\Lambert\obj\Debug\Lambert.exe.config
