@@ -1,0 +1,11 @@
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\bin\Debug\SetulMandelbrot.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\bin\Debug\SetulMandelbrot.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\bin\Debug\SetulMandelbrot.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\obj\Debug\SetulMandelbrot.csproj.AssemblyReference.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\obj\Debug\SetulMandelbrot.Properties.Resources.resources
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\obj\Debug\SetulMandelbrot.csproj.GenerateResource.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\obj\Debug\SetulMandelbrot.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\obj\Debug\SetulMandelbrot.exe
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\obj\Debug\SetulMandelbrot.pdb
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\obj\Debug\SetulMandelbrot.exe.config
+D:\Facultate\Anul III Sem I\Grafica pe calculator\SetulMandelbrot\SetulMandelbrot\obj\Debug\SetulMandelbrot.Form1.resources
